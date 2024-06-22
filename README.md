@@ -1,5 +1,10 @@
 # Credit_Card_Financial_Dashboard
 Power BI dashboard
+
+1. Prepare csv file 
+2. Create tables in SQL
+3. import csv file into SQL
+
 Credit card financial dashboard using Power BI:
 • Developed an interactive dashboard using 
 transaction and customer data from a SQL database, 
